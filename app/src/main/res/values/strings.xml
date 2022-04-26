@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetActivityResults</string>
+    <string name="grab_user_input">Grab User Input</string>
+    <string name="title_activity_main2">Grab User Information</string>
+</resources>
